@@ -1,0 +1,2 @@
+MainPackage=C:\Users\cmak\Documents\MobileCrashTesting\MobileTestingCrash\bin\ARM\Release\MobileTestingCrash_1.1.15.0_ARM.appx
+SymbolPackage=C:\Users\cmak\Documents\MobileCrashTesting\MobileTestingCrash\AppPackages\MobileTestingCrash_1.1.15.0_Test\MobileTestingCrash_1.1.15.0_ARM.appxsym
